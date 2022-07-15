@@ -29,8 +29,10 @@ print("My Simple Calculator")
 
 # Write a function called add_numbers that will take two numbers and return the sum.
 
-
-
+def add_numbers(num1, num2):
+	sum = (num1 + num2)
+	 return sum
+add_numbers(1,3)
 
 
 
@@ -39,7 +41,7 @@ print("My Simple Calculator")
 
 
 
-
+#not done, dont judge :(
 
 # ------------
 # Testing Code - Uncomment the code below to test your code!
